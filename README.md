@@ -55,7 +55,7 @@ Integrate with live transaction systems for real-world testing.
 
 Author:
 Aniruddh S.
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/Aniruddh1408
 
 API handling: FastAPI receives transaction data and returns risk score.
 
